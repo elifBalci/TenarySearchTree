@@ -1,0 +1,3 @@
+/home/melkor/CLionProjects/dataproject_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/melkor/CLionProjects/dataproject_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/melkor/CLionProjects/dataproject_2/cmake-build-debug/CMakeFiles/dataproject_2.dir

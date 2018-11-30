@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/dataproject_2.dir/main.c.o  -o dataproject_2 
